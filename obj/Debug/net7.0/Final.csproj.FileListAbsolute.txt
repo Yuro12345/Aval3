@@ -1,0 +1,15 @@
+E:\Faculdade\Tio Lu\Final\bin\Debug\net7.0\Final.exe
+E:\Faculdade\Tio Lu\Final\bin\Debug\net7.0\Final.deps.json
+E:\Faculdade\Tio Lu\Final\bin\Debug\net7.0\Final.runtimeconfig.json
+E:\Faculdade\Tio Lu\Final\bin\Debug\net7.0\Final.dll
+E:\Faculdade\Tio Lu\Final\bin\Debug\net7.0\Final.pdb
+E:\Faculdade\Tio Lu\Final\obj\Debug\net7.0\Final.csproj.AssemblyReference.cache
+E:\Faculdade\Tio Lu\Final\obj\Debug\net7.0\Final.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faculdade\Tio Lu\Final\obj\Debug\net7.0\Final.AssemblyInfoInputs.cache
+E:\Faculdade\Tio Lu\Final\obj\Debug\net7.0\Final.AssemblyInfo.cs
+E:\Faculdade\Tio Lu\Final\obj\Debug\net7.0\Final.csproj.CoreCompileInputs.cache
+E:\Faculdade\Tio Lu\Final\obj\Debug\net7.0\Final.dll
+E:\Faculdade\Tio Lu\Final\obj\Debug\net7.0\refint\Final.dll
+E:\Faculdade\Tio Lu\Final\obj\Debug\net7.0\Final.pdb
+E:\Faculdade\Tio Lu\Final\obj\Debug\net7.0\Final.genruntimeconfig.cache
+E:\Faculdade\Tio Lu\Final\obj\Debug\net7.0\ref\Final.dll
